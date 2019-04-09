@@ -36,3 +36,5 @@ have.
 I am currently working on user account creation with passport.js. After that is complete, I'll start working down the list of 
 goals. My goals will probably continue to be added to as I think of new features. I still think my UI is a little lacking, so 
 that is also in the works.
+
+# Download the APK (Still in Alpha) : https://www.dropbox.com/s/tw7lwir1hox34cp/app-release.apk?dl=0
